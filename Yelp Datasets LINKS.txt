@@ -1,0 +1,12 @@
+CSV files
+https://www.kaggle.com/yelp-dataset/yelp-dataset/version/4
+	- Yelp_reviews.csv
+	- Yelp_business.csv
+	- Yelp_Users.csv
+	- Yelp_tips.csv
+
+JSON files
+https://www.kaggle.com/yelp-dataset/yelp-dataset
+ 	-reviews.json
+	-business.json
+	-Users.json
